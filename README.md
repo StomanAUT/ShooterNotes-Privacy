@@ -6,7 +6,7 @@ Diese `docs`-Struktur ist fuer eine einfache GitHub-Pages-Seite gedacht.
 
 - `index.html`: Datenschutz, Impressum und Kontakt fuer ShooterNotes
 - `styles.css`: Layout und Branding fuer die Seite
-- `assets/`: Logos, App-Icon und Promo-Grafik fuer die GitHub-Pages-Seite
+- `assets/`: App-Icon, Logo und Promo-Grafik fuer die GitHub-Pages-Seite
 
 ## GitHub Pages aktivieren
 
